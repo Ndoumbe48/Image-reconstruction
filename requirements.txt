@@ -1,0 +1,20 @@
+# Core PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Accès aux données S3 (Onyxia)
+s3fs>=2023.1.0
+
+# Utilitaires
+numpy>=1.24.0
+tqdm>=4.65.0
+Pillow>=9.5.0
+tensorboard>=2.13.0
+
+# Métriques et pertes
+lpips>=0.1.4
+piqa>=0.1.0
+
+# Optionnel (visualisations, calculs)
+matplotlib>=3.7.0
+scipy>=1.10.0
